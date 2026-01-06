@@ -1,0 +1,5 @@
+{
+  "name": "任务大师 Pro AI",
+  "description": "一个精密、高性能的待办事项应用程序，使用 React、Tailwind CSS 和 Gemini AI 构建。功能包括智能任务分解、生产力分析、分类管理和精美的玻璃拟态界面。",
+  "requestFramePermissions": []
+}
